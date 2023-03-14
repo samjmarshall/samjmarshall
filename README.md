@@ -2,7 +2,7 @@
 
 I have extensive experience building technology teams, cloud platforms, software, and leading transformation projects. Championing the use of modern methodologies and technologies.
 
-I'm currently focused on collaborating with stakeholders to deliver maximum business value from modern software development practices and technologies.
+Focused on collaborating with stakeholders to deliver maximum business value from modern software development practices and technologies.
 
 ## Key Roles
 
