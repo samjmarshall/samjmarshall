@@ -6,7 +6,7 @@ Focused on collaborating with stakeholders to deliver maximum business value fro
 
 ## Key Roles
 
-**V2 AI** | Principal - Field CTO Software/Platforms
+**V2 AI** | Principal - AI & Software
 
 **Immutable** | Senior Staff Site Reliability Engineer
 
