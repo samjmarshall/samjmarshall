@@ -6,7 +6,7 @@ Focused on collaborating with stakeholders to deliver maximum business value fro
 
 ## Key Roles
 
-**V2 AI** | Principal - AI & Software
+**V2 AI** | Principal - Applied AI
 
 **Immutable** | Senior Staff Site Reliability Engineer
 
