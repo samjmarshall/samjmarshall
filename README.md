@@ -22,7 +22,9 @@ Focused on collaborating with stakeholders to deliver maximum value from modern 
 
 ## Highlights
 
-- Successfully lead 9 technology teams over an 8 year period for SaaS products in eCommerce, Finance, Telecommunications, HR and Payroll.
+- Engineer #1 at V2 AI.
+- 5+ years in Enterprise Consulting (Contino and V2 AI).
+- Before entering Enterprise Consulting, I successfully led 9 technology teams over 8 years for B2B SaaS products in eCommerce, Finance, Telecommunications, HR and Payroll.
 - Successfully migrated and re-architected one of the largest eCommerce platforms in APAC from Rackspace to AWS.
 - Championed the transformative implementation of DevOps, Site Reliability Engineering and the use of modern technologies such as Kubernetes.
 - Successfully planned and delivered PCI DSS Level 1 and ISO27001 compliance projects in 2 separate companies.
