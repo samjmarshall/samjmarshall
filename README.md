@@ -1,12 +1,14 @@
 # Summary
 
-I have extensive experience building technology teams, cloud platforms, software, and leading transformation projects. Championing the use of modern methodologies and technologies.
+Extensive experience building technology teams, cloud/data platforms, product software, and leading transformation projects. Championing the use of modern methodologies and technologies.
 
-Focused on collaborating with stakeholders to deliver maximum business value from modern software development practices and technologies.
+Focused on collaborating with stakeholders to deliver maximum value from modern software development practices and technologies.
 
 ## Key Roles
 
-**V2 AI** | Principal - Applied AI
+**V2 AI** | Principal Forward Deployed Engineer - Applied AI
+
+**V2 AI** | Principal - Software & Data
 
 **Immutable** | Senior Staff Site Reliability Engineer
 
